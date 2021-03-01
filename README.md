@@ -1,2 +1,2 @@
-# C35
-Updating names/count in car game
+# synchronousBallMovement
+Ball moving synchronously
